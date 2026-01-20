@@ -1,0 +1,15 @@
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.deps.json
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.runtimeconfig.json
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.dll
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/bin/Debug/net10.0/InventoryNameCleanup.pdb
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.AssemblyInfoInputs.cache
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.AssemblyInfo.cs
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.csproj.CoreCompileInputs.cache
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.sourcelink.json
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.dll
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/refint/InventoryNameCleanup.dll
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.pdb
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/InventoryNameCleanup.genruntimeconfig.cache
+/Users/yashsingh/Desktop/Top/InventoryNameCleanup/obj/Debug/net10.0/ref/InventoryNameCleanup.dll
