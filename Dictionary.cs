@@ -1,31 +1,19 @@
-using System;
-using System.Collections.Generic;
+ using System.Collections.Generic;
 
-class Program
+public class Solution
 {
-    static void Main()
+    public int GetTotalSalary(List<int> ids, Dictionary<int, int> salaryDict)
     {
-
-        List<int> ids = new List<int> { 1, 4, 5 };
-
-
-        Dictionary<int, int> empSalary = new Dictionary<int, int>()
-        {
-            {1, 20000},
-            {4, 40000},
-            {5, 15000}
-        };
-
-        int totalSalary = 0;
+        int total = 0;
 
         foreach (int id in ids)
         {
-            if (empSalary.ContainsKey(id))
+            if (salaryDict.ContainsKey(id))
             {
-                totalSalary += empSalary[id];
+                total += salaryDict[id];
             }
         }
 
-        Console.WriteLine(totalSalary);
+        return total;
     }
 }
